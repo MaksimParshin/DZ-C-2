@@ -1,0 +1,15 @@
+C:\Users\Maxim\Desktop\DZ Parshin\bin\Debug\net6.0\DZ Parshin.exe
+C:\Users\Maxim\Desktop\DZ Parshin\bin\Debug\net6.0\DZ Parshin.deps.json
+C:\Users\Maxim\Desktop\DZ Parshin\bin\Debug\net6.0\DZ Parshin.runtimeconfig.json
+C:\Users\Maxim\Desktop\DZ Parshin\bin\Debug\net6.0\DZ Parshin.dll
+C:\Users\Maxim\Desktop\DZ Parshin\bin\Debug\net6.0\DZ Parshin.pdb
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.dll
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\refint\DZ Parshin.dll
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.pdb
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\DZ Parshin.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\DZ Parshin\obj\Debug\net6.0\ref\DZ Parshin.dll
